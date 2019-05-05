@@ -10,3 +10,4 @@ layout: default
 4. [HW3](HW3)
 5. [HW4](HW4)
 6. [HW5](HW5)
+7. [HW6](HW6)
